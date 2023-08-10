@@ -9,7 +9,7 @@ path/to/invert.sh  path/to/pdf
 
 dependency ->
 
-pdftocairo ,  imagemagick , img2pdf , evince (not mandetory)
+pdftocairo ,  imagemagick , img2pdf , evince (not mandatory) .
 
 
 compatible OS -> 

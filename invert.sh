@@ -1,4 +1,4 @@
-figlet INVERT PDF 
+cat 1
 #print invert pdf 
 echo started  
 #print started
