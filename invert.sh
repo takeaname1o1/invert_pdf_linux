@@ -1,3 +1,5 @@
+figlet INVERT PDF 
+#print invert pdf 
 echo started  
 #print started
 pdftocairo -png -r 300 "$1" img
