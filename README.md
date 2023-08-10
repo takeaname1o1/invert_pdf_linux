@@ -2,7 +2,7 @@
 
 usage  - >> 
 
-git clone https://github.com/takeaname1o1/linux_script.git 
+git clone https://github.com/takeaname1o1/invert_pdf_linux.git
 
 chmod +x path/to/invert.sh
 
